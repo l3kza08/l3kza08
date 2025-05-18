@@ -30,8 +30,10 @@
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <h2> Connect with me <img src="[https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif](https://media1.tenor.com/m/iOKXuZX_coYAAAAC/call-me-emoji.gif)" width="100px"> </h2>
+<a href="https://www.facebook.com/l3k.17"> <img width="32px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/2048px-2023_Facebook_icon.svg.png"></a> 
+<a href="https://www.instagram.com/l3k.17"> <img width="32px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"></a> 
 <a href="https://www.x.com/l3k_17"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
-<a href="https://spacehey.com/l3k_16"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
+<a href="https://spacehey.com/l3k_16"> <img width="32px" align="center" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/Spacehey_icon.svg/revision/latest/scale-to-width-down/250?cb=20241201025039"></a> 
 <a href="https://www.github.com/l3kza08"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 <br>
 <br>
