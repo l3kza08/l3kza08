@@ -5,7 +5,7 @@
 " width="30px"> </h1>
 <p align="center">
 </p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=l3kza08.l3kza08" alt="Profile views">
+<p>
 <a href="https://github.com/l3kza08"><img src="https://img.shields.io/github/followers/l3kza08?label=Follow&amp;style=social" alt="Github"></a></p>
 <div size="20px"> Hey! My name is Lek. Thank for view my GitHub Profile : > 
 </div>
