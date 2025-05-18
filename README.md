@@ -36,7 +36,7 @@
 <br>
 <br>
   <br>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=l3kza08&amp;theme=tokyonight" alt="LEK's GitHub Activity Graph"></a></p>
+<p>
 
 
 
