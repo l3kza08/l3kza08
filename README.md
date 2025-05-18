@@ -10,7 +10,6 @@
 <div size="20px"> Hey! My name is Lek. Thank for view my GitHub Profile : > 
 </div>
 <h2> About Me <img src="https://media1.tenor.com/m/yIsO5-IgN_kAAAAC/nerrd.gif" width="100px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
 <p>🔭 I’m currently : Study N word</p>
@@ -37,7 +36,7 @@
 <br>
 <br>
   <br>
-<p><a href="https://media.tenor.com/JlECWR51algAAAAi/rainbow.gif"><img src="https://activity-graph.herokuapp.com/graph?username=l3kza08&amp;theme=tokyonight" alt="LEK's GitHub Activity Graph"></a></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=l3kza08&amp;theme=tokyonight" alt="LEK's GitHub Activity Graph"></a></p>
 
 
 
